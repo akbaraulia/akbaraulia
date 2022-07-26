@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akbaraulia
 - 👀 I’m interested in Game Developing And Web Developing
-- 🌱 I’m currently learning Java, Javascript,and Unity
-- 💞️ I’m looking to collaborate on Game Developing
+- 🌱 I’m currently learning Django, Vue.Js,and Svelte
+- 💞️ I’m looking to collaborate on Web Developing
 - 📫 you can call me to +62 87828997630
 <br>
 Thanks A lot!
