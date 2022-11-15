@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Kotlin, And Dart**
 
-- 💬 Ask me about **Python, PHP, and JavaScript **
+- 💬 Ask me about **Python, PHP, and JavaScript**
 
 - 📫 How to reach me **akbarauliaramadhan@gmail.com**
 
