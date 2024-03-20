@@ -20,3 +20,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-2ll6gc016-ryo-ma-s-team.vercel.app/?username=akbaraulia" alt="akbar" /></a> </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbaraulia)](https://github.com/akbaraulia/github-readme-stats)
+
