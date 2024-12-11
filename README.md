@@ -75,3 +75,10 @@
 <img src="https://raw.githubusercontent.com/akbaraulia/akbaraulia/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<a href="https://KarlFreiherr.pythonanywhere.com/link">
+  <img
+    src="https://KarlFreiherr.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
