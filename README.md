@@ -74,9 +74,11 @@
 
 <img src="https://raw.githubusercontent.com/akbaraulia/akbaraulia/output/snake.svg" alt="Snake animation" />
 
-###
+### 
 
-<a href="https://KarlFreiherr.pythonanywhere.com/link">
+### Take A look for what im currently listening at spotify or maybe my last song ?
+
+<a href="https://KarlFreiherr.pythonanywhere.com/link?spin=true?scan=true?theme=dark">
   <img
     src="https://KarlFreiherr.pythonanywhere.com"
     alt="Current Spotify Song"
