@@ -78,9 +78,16 @@
 
 ### Take A look for what im currently listening at spotify or maybe my last song ?
 
-<a href="https://KarlFreiherr.pythonanywhere.com/link?spin=true?scan=true?theme=dark">
-  <img
-    src="https://KarlFreiherr.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
+<a href="https://KarlFreiherr.pythonanywhere.com/link">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://karlfreiherr.pythonanywhere.com?theme=light&scan=true&eq_color=rainbow"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://karlfreiherr.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow"
+    />
+    <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
+  </picture>
 </a>
